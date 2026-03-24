@@ -1,7 +1,7 @@
 # SmartBooking-Hub
-Proyecto Capstone 2026
+## Proyecto Capstone 2026
 
-##Grupo 4
-*Javier Astorga
-*Ignacio Díaz
-*Sebastián Silva
+### Grupo 4
+* Javier Astorga
+* Ignacio Díaz
+* Sebastián Silva
